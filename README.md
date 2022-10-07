@@ -1,7 +1,7 @@
 
 ### Eminem - Kamikaze.mp3
 
-Currently learning everything DevOps-toolchain related: playing with Ansible playbooks, Docker containers, Vargant, deployment and building little apps 
+Currently learning everything DevOps-toolchain related: practice with Ansible playbooks, Docker containers, Vargant, deployment and building little apps 
 
 The machines im interested in are Virtual Machines and cloud solutions 
 
