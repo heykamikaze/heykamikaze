@@ -1,7 +1,14 @@
 
-# Eminem - Kamikaze.mp3
+### Eminem - Kamikaze.mp3
 
-<b> Self-taught future (I hope lol) developer </b>
+Currently learning everything DevOps-toolchain related: playing with Ansible playbooks, Docker containers, Vargant, deployment and building little apps 
+
+The machines im interested in are Virtual Machines and thats a hill im gonna d*e on 
+
+Future Targets: Maven, Jenkins, Bitbucket
+
+
+<b> Self-taught future engineer </b>
 
 <b> I rap in Golang </b>
 
