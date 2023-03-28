@@ -1,14 +1,9 @@
 
 ### Eminem - Kamikaze.mp3
 
-Currently learning everything DevOps-toolchain related: practice with Ansible playbooks, Docker containers, Vargant, deployment and building little apps 
+DevSecOps motherfucker
 
-The machines im interested in are Virtual Machines and cloud solutions 
-
-Future Targets: Maven, Jenkins, Bitbucket
-
-
-<b> Self-taught future engineer </b>
+<b> Self-taught engineer </b>
 
 <b> I rap in Golang </b>
 
